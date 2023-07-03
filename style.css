@@ -1,0 +1,28 @@
+h1, h2, h3, h4, h5 {
+    font-family: 'Caprasimo', cursive;
+}
+
+p.flow-text {
+    font-weight: lighter;
+    font-family: 'Zilla Slab', serif;
+}
+a.brand-logo {
+    font-family: 'Caprasimo', cursive;
+}
+
+span.title {
+    font-family: 'Zilla Slab', serif;
+}
+
+paragraph {
+        font-family: 'Josefin Sans', sans-serif;
+}
+
+span.card-title {
+    font-family: 'Zilla Slab', serif;
+}
+
+li.collection-item {
+    font-family: 'Zilla Slab', serif;
+
+}
